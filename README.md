@@ -25,3 +25,12 @@ Exemplo: mostrar time vitorioso
 ## 💻 Tecnologias Utilizadas  
 - Linguagem: **Python**   
 
+
+## 🚀 Como Executar  
+1. Clone este repositório:  
+   ```bash
+## 🚀 Como Executar  
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seuusuario/nomedoprojeto.git
+
