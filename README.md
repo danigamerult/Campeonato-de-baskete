@@ -27,5 +27,6 @@ Exemplo: mostrar time vitorioso
 
 ## 🚀 Como Executar  
 1. Clone este repositório:  
-   ```bash
+   ```bash  https://github.com/danigamerult/Campeonato-de-baskete
+
 https://github.com/danigamerult/Campeonato-de-baskete
