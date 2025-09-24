@@ -28,4 +28,4 @@ Exemplo: mostrar time vitorioso
 ## 🚀 Como Executar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/nomedoprojeto.git
+(https://github.com/danigamerult/Campeonato-de-baskete)
