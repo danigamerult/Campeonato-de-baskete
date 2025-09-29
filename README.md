@@ -23,7 +23,10 @@ Exemplo: mostrar time vitorioso
 ---
 
 ## 💻 Tecnologias Utilizadas  
-- Linguagem: **Python**   
+- Linguagem: **Python**
+
+- ## biblioteca
+- emojis
 
 ## 🚀 Como Executar  
 1. Clone este repositório:  
